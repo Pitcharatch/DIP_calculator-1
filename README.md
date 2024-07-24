@@ -2,13 +2,13 @@
 Basic Programming Class by P'Bank
 
 # Name
-Krittidej P.
+Pitcharatch B.
 
 ## Note
 ### 2024-07-10
 
- - If need, git config --global user.name "Phatto222"
- - If need, git config --global user.email "phat.ph2007@gmail.com"
+ - If need, git config --global user.name "Pitcharatch"
+ - If need, git config --global user.email "pitcharatch@gmail.com"
 
 # Disclaimer
-for educational purpose only. Run on your on risk.
+bruh im sorry Phat
